@@ -51,7 +51,7 @@ silenticum_FILES = PUBG/core/MenuLoad/DrawView.mm \
                 PUBG/core/imgui/imgui_widgets.cpp \
                 PUBG/core/imgui/imgui_tables.cpp \
                 gui/mywings/gui.cpp \
-                gui/blur/blur.cpp \
+                gui/blur/blu.cpp \
                 $(wildcard SDK/*.cpp)
 
 _THEOS_TARGET_STRIP = /bin/true
